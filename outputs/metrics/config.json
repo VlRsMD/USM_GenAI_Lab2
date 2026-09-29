@@ -1,0 +1,22 @@
+{
+  "data": {
+    "root": "C:\\Users\\User\\PycharmProjects\\USM\\GenerativeAI\\Lab2\\data",
+    "batch_size": 128,
+    "num_workers": 2,
+    "val_size": 5000
+  },
+  "model": {
+    "latent_dim": 16,
+    "hidden_dim": 256,
+    "beta": 1.0
+  },
+  "train": {
+    "epochs": 20,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "seed": 42
+  },
+  "paths": {
+    "output_dir": "C:\\Users\\User\\PycharmProjects\\USM\\GenerativeAI\\Lab2\\outputs"
+  }
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Downloaded dataset and model checkpoints
+data/
+outputs/checkpoints/
+
+# PyCharm per-user files
+.idea/workspace.xml
+.idea/shelf/
